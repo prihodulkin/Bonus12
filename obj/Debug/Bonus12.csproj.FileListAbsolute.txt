@@ -1,0 +1,7 @@
+G:\source\Bonus12\Bonus12\obj\Debug\Bonus12.csprojAssemblyReference.cache
+G:\source\Bonus12\Bonus12\obj\Debug\Bonus12.csproj.CoreCompileInputs.cache
+G:\source\Bonus12\Bonus12\bin\Debug\Bonus12.exe.config
+G:\source\Bonus12\Bonus12\bin\Debug\Bonus12.exe
+G:\source\Bonus12\Bonus12\bin\Debug\Bonus12.pdb
+G:\source\Bonus12\Bonus12\obj\Debug\Bonus12.exe
+G:\source\Bonus12\Bonus12\obj\Debug\Bonus12.pdb

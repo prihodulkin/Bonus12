@@ -1,1 +1,1 @@
-A->B|aa|C B->C|bb C->y|a D->Ad|A\e
+A->B|aa|C B->C|bb C->y|a D->Ad|\e
